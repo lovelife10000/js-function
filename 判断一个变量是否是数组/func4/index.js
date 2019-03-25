@@ -1,1 +1,0 @@
-obj.constructor===Array //true

@@ -1,2 +1,2 @@
 # js-function
-js常用函数
+已全部移入web-developer-interview
